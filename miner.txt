@@ -1,8 +1,8 @@
 port=8525
-mining_ip=127.0.0.1
+mining_ip=pool.bismuth.online
 mining_threads=4
 tor=0
-miner_address=92563981cc1e70d160c176edf368ea4bbc1d8d5ba63aceee99ef6ebd
+miner_address=782d46326d45214b6410e90b47f7676719624264a88a2c82364b93c1
 max_diff=150
-miner_name=Macca
+miner_name=noob
 nonce_time=10
